@@ -11,6 +11,7 @@ gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 gem 'font-awesome-rails'
 gem 'mailcatcher'
+gem 'stripe'
 group :development do
   gem 'listen', '~> 3.0.5'
   gem 'spring'
